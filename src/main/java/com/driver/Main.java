@@ -3,7 +3,7 @@ package com.driver;
 import java.nio.charset.MalformedInputException;
 import java.util.*;
 public class Main {
-    static class Product{
+    public static class Product{
         public int product(int x, int y) {
           return 1;
         }
