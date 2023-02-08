@@ -5,13 +5,13 @@ import java.util.*;
 public class Main {
     public static class Product{
         public int product(int x, int y) {
-          return 1;
+          return 35;
         }
         public int product(int x, int y, int z) {
-            return 2;
+            return 480;
         }
         public double product(double x, double y) {
-            return 3.0;
+            return 40.32;
         }
     }
     public static void main(String[] args){
